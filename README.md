@@ -2,6 +2,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Znoywho&label=Profile views&color=0e75b6&style=flat" alt="Znoywho" /> </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <!-- Cột Trái: Thường dùng để để giới thiệu, bio -->
+      <img src="LINK_ANH_GIF_CUA_BAN.gif" width="100%" alt="My GIF" />
+    </td>
+    <td align="center" width="50%">
+      <!-- Cột Phải: Thường dùng để để kỹ năng, icon, badge -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 - 🌱 I'm currently learning **Machine Learning
 Deep Learning
 Mathematics**
